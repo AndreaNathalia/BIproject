@@ -1,0 +1,13 @@
+version: '3.7'
+services:
+  db:
+    image: postgres
+    ports:
+      - 5432:5432
+    mem_limit: 1G
+    mem_reservation: 128M
+    cpus: 1
+    environment:
+      - POSTGRES_USER=biproj
+      - POSTGRES_PASSWORD=covid19
+      - POSTGRES_DB=tproject
