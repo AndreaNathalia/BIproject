@@ -11,3 +11,5 @@ services:
       - POSTGRES_USER=biproj
       - POSTGRES_PASSWORD=covid19
       - POSTGRES_DB=tproject
+    volumes:
+       - ./data:/var/lib/postgresql/data
