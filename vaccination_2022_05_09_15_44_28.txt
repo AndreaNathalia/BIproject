@@ -1,0 +1,17 @@
+5:1: ERROR: integer out of range
+8:1: ERROR: integer out of range
+15:1: ERROR: integer out of range
+16:1: ERROR: integer out of range
+20:1: ERROR: integer out of range
+30:1: ERROR: integer out of range
+31:1: ERROR: integer out of range
+32:1: ERROR: integer out of range
+40:1: ERROR: integer out of range
+42:1: ERROR: integer out of range
+43:1: ERROR: integer out of range
+46:1: ERROR: integer out of range
+49:1: ERROR: integer out of range
+56:1: ERROR: integer out of range
+57:1: ERROR: integer out of range
+62:1: ERROR: integer out of range
+63:1: ERROR: integer out of range
